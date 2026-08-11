@@ -1,97 +1,116 @@
-# Hi, I'm Shrawan Kamat 👋
+<div align="center">
 
-### Full Stack Developer | MERN Stack
+[![Profile views](https://komarev.com/ghpvc/?username=Shrawankamat12&color=blue&style=flat)](https://github.com/Shrawankamat12)
 
-I'm a Full Stack Developer with 10+ months of professional experience building responsive and scalable web applications using the MERN stack, Next.js, and Firebase.
+<a href="https://www.linkedin.com/in/shrawan-kamat-764305292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shrawankamat13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I have worked on production web applications, e-commerce platforms, business applications, REST APIs, database-driven systems, and freelance client projects.
+</div>
 
-### 🚀 About Me
+<h3 align="center">
 
-- 💻 Full Stack Developer specializing in MERN Stack
-- ⚛️ Experienced with React.js and Next.js
-- 🟢 Backend development with Node.js and Express.js
-- 🗄️ Experience with MongoDB, SQL and Firebase
-- 🔌 REST API development and CRUD operations
-- 🚀 Experience working on production web applications
-- 🤝 Delivered freelance client projects independently
-- 📍 Based in Noida, Uttar Pradesh, India
-- 💼 Open to Full Stack / MERN Developer opportunities
+```
+Full Stack Developer (MERN Stack) building responsive, scalable web apps.
+```
 
-### 🛠️ Tech Stack
-
-**Frontend**
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Responsive Web Design
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- CRUD Operations
-
-**Database & Services**
-- MongoDB
-- SQL
-- Firebase
-- Firebase Authentication
-- Firestore
-- Cloud Functions
-
-**Tools & Practices**
-- Git
-- GitHub
-- Postman
-- Version Control
-- Debugging
-- Performance Optimization
-
-### 🚀 Featured Projects
-
-#### 🛒 Mitronix – E-Commerce Platform
-**React.js • Node.js • MongoDB**
-
-Full-stack e-commerce platform with product listing, cart functionality and admin management.
-
-#### 💼 Dsonik – Web Application
-**Next.js • Node.js • Firebase**
-
-Business web application with authentication and core business functionality.
-
-#### 📋 Quotation Management System
-**React.js • Node.js • SQL**
-
-End-to-end quotation management system for creating, editing and tracking quotations.
-
-#### 🌐 Cloud4Dyamacis
-**React.js • Node.js**
-
-Freelance client-facing business web project.
-
-#### 💇 Suraj Hair Industries
-**HTML5 • CSS3 • JavaScript**
-
-Responsive landing page developed for a freelance client.
-
-### 📊 What I Build
-
-- Full Stack Web Applications
-- E-Commerce Platforms
-- REST APIs
-- Admin Dashboards
-- Business Management Systems
-- Responsive Web Interfaces
-- Database-driven Applications
-
-### 📫 Connect With Me
-
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shrawan-kamat-764305292/)
-- GitHub: [GitHub](https://github.com/Shrawankamat12)
+</h3>
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+### About Me
+
+- 💻 Full Stack Developer with a Computer Applications (Computer Science) background
+- 🚀 10+ months of professional experience building production web apps with the **MERN stack**, **Next.js**, and **Firebase**
+- 🧩 Delivered **3 freelance client projects** end-to-end — requirements, development, deployment
+- 🛠️ Comfortable across the stack: React/Next.js frontends, Node.js/Express APIs, MongoDB/SQL/Firebase data layers
+- 📍 Based in Noida, Uttar Pradesh, India | Open to Full Stack / MERN Stack Developer roles
+- 🎓 Pursuing MCA at Sam Global University (2026–2028) | BCA from Chaudhary Charan Singh University (2025)
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### Featured Projects
+
+<!--
+  IMPORTANT: Add the real repo/live links below before publishing.
+  I have NOT verified these URLs — only the project names/tech/descriptions
+  came from your resume. Do not leave placeholder links live in the final README.
+-->
+
+**🛒 Mitronix — E-Commerce Platform**
+`React.js` `Node.js` `MongoDB`
+Full-featured e-commerce site with 3 core modules — product listing, cart, and admin management.
+🔗 User Site: `<!-- ADD LIVE URL -->` · Admin Panel: `<!-- ADD LIVE URL -->` · Code: `<!-- ADD REPO LINK OR "Private (client project)" -->`
+
+**⚙️ Dsonik — Business Web Application**
+`Next.js` `Node.js` `Firebase`
+Business web application with authentication and core workflow features.
+🔗 Live: `<!-- ADD LIVE URL -->` · Code: `<!-- ADD REPO LINK OR "Private (client project)" -->`
+
+**💬 WePlayChat — Real-Time Chat Platform**
+`Next.js` `Node.js` `Firebase`
+Real-time chat platform — Next.js frontend with Node.js + Firebase backend for live user interactions.
+🔗 Code: `<!-- ADD REPO LINK OR "Private (client project)" -->`
+
+**📋 Quotation Management System**
+`React.js` `Node.js` `SQL`
+End-to-end quotation creation, editing, and tracking tool that replaced a manual, paper-based workflow.
+🔗 Code: `<!-- ADD REPO LINK OR "Private (client project)" -->`
+
+**🌐 Cloud4Dyamacis (Freelance)**
+`React.js` `Node.js`
+Client-facing business site built as a freelance project.
+🔗 Live: `<!-- ADD LIVE URL -->` · Code: `<!-- ADD REPO LINK OR "Private (client project)" -->`
+
+**📄 Suraj Hair Industries — Landing Page (Freelance)**
+`HTML5` `CSS3` `JavaScript`
+Responsive landing page for a freelance client, focused on clean UI and cross-device compatibility.
+🔗 Live: `<!-- ADD LIVE URL -->` · Code: `<!-- ADD REPO LINK OR "Private (client project)" -->`
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shrawankamat12&show_icons=true&theme=default&hide=prs" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrawankamat12&layout=compact&theme=default" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fshrawan--kamat--764305292-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrawan-kamat-764305292)
+[![Email](https://img.shields.io/badge/Email-shrawankamat13%40gmail.com-red?style=flat-square&logo=gmail)](mailto:shrawankamat13@gmail.com)
+
+</div>
