@@ -89,7 +89,7 @@ Responsive landing page developed for a freelance client.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shrawan-kamat-764305292/)
 - GitHub: [GitHub](https://github.com/Shrawankamat12)
 
 ---
