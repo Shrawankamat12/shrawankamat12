@@ -1,16 +1,53 @@
-### Hi I'M shrawan kumar kamti👋
+Shrawan Kamat
+Full Stack Developer | MERN Stack Developer
 
-<!--
-**Shrawankamat12/shrawankamat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable web applications with React, Next.js,
+Node.js, Express.js and modern databases.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on study
-- 🌱 I’m currently learning BCA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Full Stack Developer with 10+ months of experience
+• Experienced in building real-world web applications
+• Working with MERN Stack and Next.js
+• Interested in scalable backend systems and modern frontend development
+• Open to Full Stack / MERN Developer opportunities
+
+🛠️ Tech Stack
+
+Frontend
+React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS
+
+Backend
+Node.js • Express.js • REST APIs
+
+Database
+MongoDB • MySQL • PostgreSQL • Firebase
+
+Tools
+Git • GitHub • Postman • VS Code
+
+🚀 Featured Projects
+
+MITRONIX
+Full Stack E-Commerce Platform
+React.js • Node.js • Express.js • MongoDB
+
+DSONIK
+Admin Dashboard
+React.js • API Integration • Database
+
+WEPLAYCHAT
+Real-time/Chat Application
+Next.js • Firebase
+
+QUOTATION MANAGEMENT SYSTEM
+Business quotation management application
+React.js • Node.js • SQL
+
+B.I.R HAIR INDIA FACTORY
+E-Commerce + Admin Panel
+...
+
+📫 Connect With Me
+
+LinkedIn | Portfolio | GitHub
