@@ -1,53 +1,97 @@
-Shrawan Kamat
-Full Stack Developer | MERN Stack Developer
+# Hi, I'm Shrawan Kamat 👋
 
-Building scalable web applications with React, Next.js,
-Node.js, Express.js and modern databases.
+### Full Stack Developer | MERN Stack
 
-🚀 About Me
+I'm a Full Stack Developer with 10+ months of professional experience building responsive and scalable web applications using the MERN stack, Next.js, and Firebase.
 
-• Full Stack Developer with 10+ months of experience
-• Experienced in building real-world web applications
-• Working with MERN Stack and Next.js
-• Interested in scalable backend systems and modern frontend development
-• Open to Full Stack / MERN Developer opportunities
+I have worked on production web applications, e-commerce platforms, business applications, REST APIs, database-driven systems, and freelance client projects.
 
-🛠️ Tech Stack
+### 🚀 About Me
 
-Frontend
-React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS
+- 💻 Full Stack Developer specializing in MERN Stack
+- ⚛️ Experienced with React.js and Next.js
+- 🟢 Backend development with Node.js and Express.js
+- 🗄️ Experience with MongoDB, SQL and Firebase
+- 🔌 REST API development and CRUD operations
+- 🚀 Experience working on production web applications
+- 🤝 Delivered freelance client projects independently
+- 📍 Based in Noida, Uttar Pradesh, India
+- 💼 Open to Full Stack / MERN Developer opportunities
 
-Backend
-Node.js • Express.js • REST APIs
+### 🛠️ Tech Stack
 
-Database
-MongoDB • MySQL • PostgreSQL • Firebase
+**Frontend**
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Responsive Web Design
 
-Tools
-Git • GitHub • Postman • VS Code
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- CRUD Operations
 
-🚀 Featured Projects
+**Database & Services**
+- MongoDB
+- SQL
+- Firebase
+- Firebase Authentication
+- Firestore
+- Cloud Functions
 
-MITRONIX
-Full Stack E-Commerce Platform
-React.js • Node.js • Express.js • MongoDB
+**Tools & Practices**
+- Git
+- GitHub
+- Postman
+- Version Control
+- Debugging
+- Performance Optimization
 
-DSONIK
-Admin Dashboard
-React.js • API Integration • Database
+### 🚀 Featured Projects
 
-WEPLAYCHAT
-Real-time/Chat Application
-Next.js • Firebase
+#### 🛒 Mitronix – E-Commerce Platform
+**React.js • Node.js • MongoDB**
 
-QUOTATION MANAGEMENT SYSTEM
-Business quotation management application
-React.js • Node.js • SQL
+Full-stack e-commerce platform with product listing, cart functionality and admin management.
 
-B.I.R HAIR INDIA FACTORY
-E-Commerce + Admin Panel
-...
+#### 💼 Dsonik – Web Application
+**Next.js • Node.js • Firebase**
 
-📫 Connect With Me
+Business web application with authentication and core business functionality.
 
-LinkedIn | Portfolio | GitHub
+#### 📋 Quotation Management System
+**React.js • Node.js • SQL**
+
+End-to-end quotation management system for creating, editing and tracking quotations.
+
+#### 🌐 Cloud4Dyamacis
+**React.js • Node.js**
+
+Freelance client-facing business web project.
+
+#### 💇 Suraj Hair Industries
+**HTML5 • CSS3 • JavaScript**
+
+Responsive landing page developed for a freelance client.
+
+### 📊 What I Build
+
+- Full Stack Web Applications
+- E-Commerce Platforms
+- REST APIs
+- Admin Dashboards
+- Business Management Systems
+- Responsive Web Interfaces
+- Database-driven Applications
+
+### 📫 Connect With Me
+
+- LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
+- GitHub: [GitHub](https://github.com/Shrawankamat12)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
