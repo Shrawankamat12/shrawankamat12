@@ -16,7 +16,7 @@ Building responsive, scalable web applications with React, Next.js, Node.js and 
 
 ## About
 
-Full Stack Developer with a Computer Applications background and 10+ months of professional experience building production web applications with the MERN stack, Next.js, and Firebase. Delivered 3 freelance client projects independently, end to end — requirements, development, and deployment. Comfortable working across the stack: React/Next.js frontends, Node.js/Express APIs, and MongoDB/SQL/Firebase data layers.
+Full Stack Developer with a Computer Applications background and 1+ year of professional experience building production web applications with the MERN stack, Next.js, and Firebase. Delivered 3 freelance client projects independently, end to end — requirements, development, and deployment. Comfortable working across the stack: React/Next.js frontends, Node.js/Express APIs, and MongoDB/SQL/Firebase data layers.
 
 Currently open to Full Stack Developer / MERN Stack Developer roles · Based in Noida, India
 
@@ -74,6 +74,16 @@ Currently open to Full Stack Developer / MERN Stack Developer roles · Based in 
 <tr>
 <td width="50%" valign="top">
 
+**🛒 BIR Hair Factory — E-Commerce**
+`React.js` `Node.js` `MongoDB`
+
+Full-featured e-commerce site with a customer-facing storefront and a separate admin panel — product listing, cart, and checkout.
+
+[Live Site](#) · [Admin Panel](#) · Code: Private (client project)
+
+</td>
+<td width="50%" valign="top">
+
 **🛒 Mitronix — E-Commerce Platform**
 `React.js` `Node.js` `MongoDB`
 
@@ -82,28 +92,8 @@ Full-featured e-commerce site with 3 core modules — product listing, cart, and
 [Live Site](#) · [Admin Panel](#) · Code: Private (client project)
 
 </td>
-<td width="50%" valign="top">
-
-**⚙️ Dsonik — Business Web App**
-`Next.js` `Node.js` `Firebase`
-
-Business web application with authentication and core workflow features.
-
-[Live Site](#) · Code: Private (client project)
-
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**💬 WePlayChat — Real-Time Chat**
-`Next.js` `Node.js` `Firebase`
-
-Real-time chat platform with a Next.js frontend and Node.js + Firebase backend.
-
-Code: Private (client project)
-
-</td>
 <td width="50%" valign="top">
 
 **📋 Quotation Management System**
@@ -111,11 +101,9 @@ Code: Private (client project)
 
 End-to-end quotation creation, editing, and tracking tool that replaced a manual, paper-based workflow.
 
-Code: Private (client project)
+[Live Site](#) · Code: Private (client project)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🌐 Cloud4Dyamacis** *(Freelance)*
@@ -126,12 +114,46 @@ Client-facing business site built as an independent freelance project.
 [Live Site](#) · Code: Private (client project)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **📄 Suraj Hair Industries** *(Freelance)*
 `HTML5` `CSS3` `JavaScript`
 
 Responsive landing page built for a freelance client, focused on clean UI and cross-device compatibility.
+
+[Live Site](#) · Code: Private (client project)
+
+</td>
+<td width="50%" valign="top">
+
+**📈 AmarSpring Landing Page**
+`MERN Stack`
+
+Responsive business landing page built for marketing and lead generation.
+
+[Live Site](#) · Code: Private (client project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 HappyHealth24 Landing Page**
+`MERN Stack`
+
+Responsive landing page built to support business marketing goals.
+
+[Live Site](#) · Code: Private (client project)
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 NS DataWebX Landing Page**
+`MERN Stack`
+
+Responsive landing page for business marketing and lead generation.
 
 [Live Site](#) · Code: Private (client project)
 
