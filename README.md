@@ -84,32 +84,10 @@ Full-featured e-commerce site with a customer-facing storefront and a separate a
 </td>
 <td width="50%" valign="top">
 
-**🛒 Mitronix — E-Commerce Platform**
-`React.js` `Node.js` `MongoDB`
-
-Full-featured e-commerce site with 3 core modules — product listing, cart, and admin management.
-
-[Live Site](#) · [Admin Panel](#) · Code: Private (client project)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **📋 Quotation Management System**
 `React.js` `Node.js` `SQL`
 
 End-to-end quotation creation, editing, and tracking tool that replaced a manual, paper-based workflow.
-
-[Live Site](#) · Code: Private (client project)
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Cloud4Dyamacis** *(Freelance)*
-`React.js` `Node.js`
-
-Client-facing business site built as an independent freelance project.
 
 [Live Site](#) · Code: Private (client project)
 
